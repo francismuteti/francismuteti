@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francismuteti
-- 👀 I’m interested in python, django,JavaScript, CSS and HTML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects such as webdevelopment and software engineering
+- 👀 I’m interested in python, django,JavaScript,CSS and HTML
+- 🌱 I’m a master of Python
+- 💞️ I’m looking to collaborate on projects such as web development,data analysis and software engineering
 
 
 <!---
